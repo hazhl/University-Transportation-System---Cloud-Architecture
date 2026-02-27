@@ -6,7 +6,6 @@ A highly scalable, real-time university transportation tracking and management s
 
 🏗️ High-Level Cloud Architecture 
 
-![Design Screenshot](architecture.png)
 
 The infrastructure is designed for High Availability (HA) and robust security, utilizing a Multi-AZ deployment model across public and private subnets. 
 
