@@ -5,9 +5,7 @@
 A highly scalable, real-time university transportation tracking and management system. Designed for cloud-native deployment on AWS, this system provides live vehicle telemetry, route management, and secure authentication for students, drivers, and dispatchers.  
 
 🏗️ High-Level Cloud Architecture 
-
-
- 
+![Design Screenshot](University Transportation System - AWS Cloud Architecture.png)
 
 The infrastructure is designed for High Availability (HA) and robust security, utilizing a Multi-AZ deployment model across public and private subnets. 
 
